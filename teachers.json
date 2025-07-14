@@ -1,0 +1,9 @@
+[
+  { "id": 1, "name": "Ms. Emily Carter", "email": "emily.carter@example.com" },
+  { "id": 2, "name": "Mr. David Brown", "email": "david.brown@example.com" },
+  { "id": 3, "name": "Mrs. Linda Green", "email": "linda.green@example.com" },
+  { "id": 4, "name": "Mr. Paul White", "email": "paul.white@example.com" },
+  { "id": 5, "name": "Ms. Rachel Adams", "email": "rachel.adams@example.com" },
+  { "id": 6, "name": "Dr. Steven Black", "email": "steven.black@example.com" },
+  { "id": 7, "name": "Mrs. Olivia Blue", "email": "olivia.blue@example.com" }
+] 

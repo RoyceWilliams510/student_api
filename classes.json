@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Math 101", "teacher_id": 1, "subject_id": 1 },
+  { "id": 2, "name": "English 101", "teacher_id": 2, "subject_id": 2 },
+  { "id": 3, "name": "Science 101", "teacher_id": 1, "subject_id": 3 },
+  { "id": 4, "name": "History 101", "teacher_id": 3, "subject_id": 4 },
+  { "id": 5, "name": "Art 101", "teacher_id": 4, "subject_id": 5 },
+  { "id": 6, "name": "PE 101", "teacher_id": 5, "subject_id": 6 },
+  { "id": 7, "name": "Music 101", "teacher_id": 6, "subject_id": 7 },
+  { "id": 8, "name": "CS 101", "teacher_id": 7, "subject_id": 8 }
+] 
